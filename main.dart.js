@@ -53806,7 +53806,7 @@ this.oO()
 this.agM()},
 l(){this.UD()
 this.aD()},
-agM(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c="chronos-production-f584.up.railway.app",b="query",a=$.cf,a0=(a==null?$.cf=$.el():a).fp("[DEFAULT]")
+agM(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c="http://chronos-production-f584.up.railway.app",b="query",a=$.cf,a0=(a==null?$.cf=$.el():a).fp("[DEFAULT]")
 A.de(a0,$.e1(),!0)
 s=A.eJ(new A.dA(a0)).geu()
 if(s==null){A.ae("WebSocket: Usu\xe1rio n\xe3o logado.")
@@ -53822,7 +53822,7 @@ n=p.gfM()
 m=$.aWD.au(o)&&$.aWD.h(0,o).d.au(n)
 l=J.d(q.h(0,"forceNew"),!0)||J.d(q.h(0,"force new connection"),!0)||!1===q.h(0,"multiplex")||m
 k=A.bN("io")
-if(l){$.bcs().bH(B.A,"ignoring socket cache for chronos-production-f584.up.railway.app",d,d)
+if(l){$.bcs().bH(B.A,"ignoring socket cache for http://chronos-production-f584.up.railway.app",d,d)
 k.b=A.b4s(q,c)}else{j=$.aWD.h(0,o)
 if(j==null){j=A.b4s(q,c)
 $.aWD.m(0,o,j)}k.b=j}if(p.goh().length!==0&&q.h(0,b)==null)q.m(0,b,p.goh())
